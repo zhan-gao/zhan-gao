@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome to my Github profile page 👋
 
+I am a Ph.D. student in the [Department of Economics, University of Southern California](https://dornsife.usc.edu/econ/about-us/). My research interests are mainly in econometrics.
+
+🔭 I’m currently working on high-dimensinal predictive regression models, random coefficient models and panel data models with grouped heterogeneity. Free free to check my  [research profile](https://zhan-gao.github.io/research/) and [CV](https://zhan-gao.github.io/CV_GAO%20Zhan.pdf) out.
+
+🌱 I'm a R user and maintaining [classo]( https://github.com/zhan-gao/classo) and [LasForecast]( https://github.com/zhan-gao/LasForecast).
+
+💬 `zhangao [at] usc [dot] edu`
 <!--
 **zhan-gao/zhan-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
