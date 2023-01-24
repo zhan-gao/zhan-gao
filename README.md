@@ -7,6 +7,11 @@ I am a Ph.D. student in the [Department of Economics, University of Southern Cal
 🌱 I'm a R user and maintaining [classo]( https://github.com/zhan-gao/classo) and [LasForecast]( https://github.com/zhan-gao/LasForecast).
 
 💬 `zhangao [at] usc [dot] edu`
+
+```
+[![Zhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan-gao&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+```
+
 <!--
 **zhan-gao/zhan-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
